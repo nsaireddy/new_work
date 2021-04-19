@@ -1,4 +1,8 @@
 giridhar
 my name is giridhar
 giridhar@gmail.com
+<<<<<<< HEAD
 giridhar is learning git! 
+=======
+girdhar is learning git!+maven
+>>>>>>> new-branch
