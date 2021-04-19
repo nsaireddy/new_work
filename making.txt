@@ -5,5 +5,9 @@ giridhar@gmail.com
 giridhar is learning git! 
 =======
 girdhar is learning git!+maven
+<<<<<<< HEAD
 >>>>>>> new-branch
 lakshmi
+=======
+lakshmi im 
+>>>>>>> new-branch
